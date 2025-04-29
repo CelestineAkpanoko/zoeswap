@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/CelestineAkpanoko/zoeswap-v1-core.git
+[submodule "periphery"]
+	path = periphery
+	url = https://github.com/CelestineAkpanoko/zoeswap-v1-periphery.git
